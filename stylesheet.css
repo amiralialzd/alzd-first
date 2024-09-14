@@ -1,0 +1,170 @@
+body{
+    border: none;
+   padding: 0;
+   margin: 0;
+   font-family:  'roboto',  sans-serif ;
+  
+}
+.first{
+    display: flex;
+    background-color: #1F2937;
+   flex-shrink: 1;
+   justify-content: space-around;
+gap: 350px;
+ 
+}
+.first-one{
+    font-size: 24px;
+    color: #F9FAF8;
+    margin: 5px;
+}
+
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ol{
+    display: flex;
+    gap: 20px;
+}
+
+.second{
+    display: flex;
+    background-color: #1F2937;
+justify-content: center;
+gap: 250px;
+}
+
+.second-two{
+    font-size: 48px;
+    color:  #F9FAF8;
+    font-weight: 900;
+}
+
+.second-one{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.second-four{
+    margin-bottom: 100px;
+}
+
+
+.second-three{
+  display: flex;
+  justify-content: center;
+  height: 30px;
+ width: 90px;
+  border:0 solid #ccc;
+  border-radius: 12px;
+  background-color: #3882F6;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 1);
+  color: white;
+padding: 7px ;
+margin-top: 5px;
+}
+
+.part-sc-one
+{
+display: flex;
+font-size: 36px;
+color: #1F2937;
+font-weight: 900;
+justify-content: center;
+}
+.figures {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    
+}
+
+.border {
+    border-style: solid ;
+    border-color: #3882F6;
+    border-radius: 25px;
+}
+figcaption {
+    margin-top: 5px;
+}
+
+.thpart{
+    background-color: #E5E7EB;
+    height: 450px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+   
+}
+
+.thpart-one{
+    font-size: 36px;
+    font-family: light italic;
+    color: #1F2937;
+padding: 60px;
+
+
+}
+.thpart-two{
+    font-size: 30px;
+    font-weight: 800;
+  display: flex;
+    justify-content: center;
+    padding-left: 650px;
+    align-items: flex-end;
+}
+
+
+.last{
+    display: flex;
+    background-color: #3882F6;
+color: #F9FAF8;
+justify-content: center;
+height: 130px;
+width: 950px;
+margin-left: 250px;
+gap: 100px;
+border-radius: 15px;
+margin-bottom: 70px;
+margin-top: 70px;
+padding-top: 30px;
+}
+
+.last-one{
+    font-size: 25px;
+
+}
+.last-two {
+    font-size: 15px;
+}
+.last-three{
+   
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    margin-top: 30px;
+    border-radius: 15px;
+    width: 80px;
+    height: 40px;
+  
+}
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    flex-shrink: 1;
+    color: #E5E7EB;
+    padding: 17px;
+}
